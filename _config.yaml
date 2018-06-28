@@ -1,0 +1,9 @@
+
+name: muminof is Sardor Muminov
+
+description: Sardor Muminov's blog
+
+url: http://muminoff.com
+
+plugins:
+  - jekyll-feed
